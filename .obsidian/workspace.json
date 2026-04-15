@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai/agentic_engineering_patterns_guide.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "agentic_engineering_patterns_guide"
+              "title": "README"
             }
           }
         ]
@@ -183,14 +183,14 @@
   },
   "active": "a20abdc834c905b2",
   "lastOpenFiles": [
-    "README.md",
+    "python/Python Class Notes.md",
+    "macos/20260414 - MacOS setup for Dev work.md",
     "ai/agentic_engineering_patterns_guide.md",
+    "README.md",
     "ai/AI resources.md",
     "ai/AI critics.md",
-    "python/Python Class Notes.md",
     "python/study_guide.docx.pdf",
     "ai/AI resources.csv",
-    "macos/20260414 - MacOS setup for Dev work.md",
     "ai/AI resources.ods",
     "ai/AI critics.odt",
     "python/AI resources.ods",
