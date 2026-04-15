@@ -19,6 +19,5 @@ Python
 
 
 ### AI Schema 
-
 Claude Desktop & Gemini for Education as Assistants / Tutors under school google account
 Gemini API under Dev google account
