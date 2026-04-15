@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "macos/20260414 - MacOS setup for Dev work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "20260414 - MacOS setup for Dev work"
             }
           }
         ]
@@ -183,10 +183,10 @@
   },
   "active": "a20abdc834c905b2",
   "lastOpenFiles": [
+    "README.md",
     "python/Python Class Notes.md",
     "macos/20260414 - MacOS setup for Dev work.md",
     "ai/agentic_engineering_patterns_guide.md",
-    "README.md",
     "ai/AI resources.md",
     "ai/AI critics.md",
     "python/study_guide.docx.pdf",
